@@ -1,6 +1,6 @@
 ## About Me
 
-**Hey this is MohammadReza** 👨🏻‍💻
+**Hey this is MohammadReza** 🙋🏻‍♂️
 
 I'm a seasoned software engineer with a profound expertise in Android and Flutter development. With over **7** years of tech industry experience, including **4** years dedicated to **Flutter**, I possess a strong track record of designing, implementing, and maintaining production-ready mobile applications based on cutting-edge technologies such as Java/Kotlin for Android and Dart for Flutter. My journey includes leadership roles where I've successfully led teams. as a creative, hardworking team player who enjoys sharing my experience and helping to solve challenges from different perspectives, such as business, management, and software, I can play an essential role in the decision-making of cross-functional teams.
 
