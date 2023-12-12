@@ -12,8 +12,8 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./mr_prog_dark.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./mr_prog_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_prog_dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./assets/mr_prog_light.png">
 </picture>
 
 <!--
