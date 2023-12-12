@@ -11,9 +11,10 @@
 <img src="https://raw.githubusercontent.com/m-r-davari/m-r-davari/master/assets/walking.gif" alt="Model1" width="24%"/>
 -->
 
-<!--
-<img src="https://raw.githubusercontent.com/m-r-davari/m-r-davari/master/assets/mr_github_meme.gif" alt="Model1" width="100%"/>
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./mr_prog_dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./mr_prog_light.png">
+</picture>
 
 <!--
 <picture>
@@ -30,4 +31,4 @@
 -->
 
 
-<!--comect-->
+<!--comment-->
