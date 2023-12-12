@@ -8,8 +8,8 @@ I'm a seasoned software engineer with a profound expertise in Android and Flutte
 <img src="https://raw.githubusercontent.com/m-r-davari/m-r-davari/master/assets/walking.gif" alt="Model1" width="24%"/>
 -->
 
-
-This banner 👇🏻 has been created by the **GitHub Readme Beautifier** project that I'm currently developing.
+This site was built using [GitHub Pages](https://pages.github.com/).
+This banner 👇🏻 has been created by the [**GitHub Readme Beautifier**](https://github.com/m-r-davari/github_readme_beautifier) project that I'm currently developing.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_prog_dark.gif">
