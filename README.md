@@ -1,11 +1,8 @@
-
+## About Me
 
 **Hey this is MohammadReza**
 
-
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Unity
-- 👯 I’m looking to collaborate on Flutter Projects
+I'm a seasoned software engineer with a profound expertise in Android and Flutter development. With over 7 years of tech industry experience, including 4 years dedicated to Flutter, I possess a strong track record of designing, implementing, and maintaining production-ready mobile applications based on cutting-edge technologies such as Java/Kotlin for Android and Dart for Flutter. My journey includes leadership roles where I've successfully led teams. as a creative, hardworking team player who enjoys sharing my experience and helping to solve challenges from different perspectives, such as business, management, and software, I can play an essential role in the decision-making of cross-functional teams.
 
 <!--
 <img src="https://raw.githubusercontent.com/m-r-davari/m-r-davari/master/assets/walking.gif" alt="Model1" width="24%"/>
