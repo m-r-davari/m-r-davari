@@ -16,6 +16,7 @@ This banner 👇🏻 has been created by the [**GitHub Readme Beautifier**](http
   <img alt="Text changing depending on mode. Light: 'LighMeme' Dark: 'DarkMeme'" src="./assets/mr_def_light_meme.gif" width="100%">
 </picture>
 
+
 🚫 **Do not copy** 🚫 the **Code** or **Idea** of this project ;\
 ©️ **Copyright/License** ©️ belongs to **MohammadReza Davari** ;\
 📢 **You are welcomed** to contribute, so do not hesitate ;
