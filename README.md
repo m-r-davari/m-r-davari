@@ -15,7 +15,14 @@ This banner 👇🏻 has been created by the [**GitHub Readme Beautifier**](http
   <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_def_dark_meme.gif">
   <img alt="Text changing depending on mode. Light: 'LighMeme' Dark: 'DarkMeme'" src="./assets/mr_def_light_meme.gif" width="100%">
 </picture>
-🚫 Do not copy 🚫 the Code or Idea of this project ;
+
+🚫 **Do not copy** 🚫 the **Code** or **Idea** of this project ;\
+©️ **Copyright/License** ©️ belongs to **MohammadReza Davari** ;\
+📢 **You are welcomed** to contribute, so do not hesitate ;
+
+
+## Notes
+This project has been developed using Flutter web and is still under development.
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-r-davari&repo=github_readme_beautifier)](https://github.com/m-r-davari/github_readme_beautifier)
