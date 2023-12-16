@@ -17,7 +17,7 @@ This banner 👇🏻 has been created by the [**GitHub Readme Beautifier**](http
 </picture>
 🚫 Do not copy 🚫 the Code or Idea of this project ;
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-r-davari&repo=github_readme-beautifier)](https://github.com/m-r-davari/github_readme-beautifier)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-r-davari&repo=github_readme_beautifier)](https://github.com/m-r-davari/github_readme_beautifier)
 
 <!--
 <picture>
