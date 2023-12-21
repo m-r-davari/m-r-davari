@@ -12,8 +12,8 @@ I'm a seasoned software engineer with a profound expertise in Android and Flutte
 This banner 👇🏻 has been created by the [**GitHub Readme Beautifier**](https://github.com/m-r-davari/github_readme_beautifier) project that I'm currently developing.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/mrd_github_meme_dark.gif">
-  <img alt="Text changing depending on mode. Light: 'LighMeme' Dark: 'DarkMeme'" src="./assets/mrd_github_meme_light.gif" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/f1_github_meme_dark.gif">
+  <img alt="Text changing depending on mode. Light: 'LighMeme' Dark: 'DarkMeme'" src="./assets/f1_github_meme_light.gif" width="100%">
 </picture>
 
 
