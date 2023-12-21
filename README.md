@@ -13,7 +13,7 @@ This banner 👇🏻 has been created by the [**GitHub Readme Beautifier**](http
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/mrd_github_meme_dark.gif">
-  <img alt="Text changing depending on mode. Light: 'LighMeme' Dark: 'DarkMeme'" src="./assets/mrd_github_meme_dark.gif" width="100%">
+  <img alt="Text changing depending on mode. Light: 'LighMeme' Dark: 'DarkMeme'" src="./assets/mrd_github_meme_light.gif" width="100%">
 </picture>
 
 
