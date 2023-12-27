@@ -20,7 +20,7 @@ This banner 👇🏻 has been created by the [**GitHub Readme Beautifier**](http
 Its a web app to beautify and enhance your Github README file, that provides interesting widgets in PNG and GIF(animated) formats.\
 \
 Show some ❤️️ and support me with Github star ⭐️ .
-([**Web App Link**](https://m-r-davari.github.io/github_readme_beautifier))     ([**How To Use**](https://github.com/m-r-davari/github_readme_beautifier)) \
+([**Web App Link**](https://m-r-davari.github.io/github_readme_beautifier){:target="_blank" rel="noopener"})     ([**How To Use**](https://github.com/m-r-davari/github_readme_beautifier){:target="_blank" rel="noopener"}) \
 You are welcomed to contribute, instead of copying the Idea or Code.
 
 
