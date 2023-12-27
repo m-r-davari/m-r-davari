@@ -16,13 +16,10 @@ This banner 👇🏻 has been created by the [**GitHub Readme Beautifier**](http
   <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/mrd_github_meme_light.gif" width="100%">
 </picture>
 
-\
-Its a web app to beautify and enhance your Github README file, that provides interesting widgets in PNG and GIF(animated) formats.
 
+Its a web app to beautify and enhance your Github README file, that provides interesting widgets in PNG and GIF(animated) formats.\
 \
 Show some ❤️️ and support me with Github star ⭐️ .
-
-\
 [**Web App Link**](https://m-r-davari.github.io/github_readme_beautifier)  [**How To Use**](https://github.com/m-r-davari/github_readme_beautifier)
 
 
