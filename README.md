@@ -22,8 +22,8 @@ Its a web app to beautify and enhance your Github README file, that provides int
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/optimized_typewriter_text_dark_0.gif">
-  <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/optimized_typewriter_text_light_0.gif" width="60%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/typewriter_text_dark.gif">
+  <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/typewriter_text_light.gif" width="65%">
 </picture>
 
 Show some ❤️️ and support me with Github star ⭐️ .
