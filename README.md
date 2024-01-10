@@ -17,7 +17,7 @@ This banner 👇🏻 has been created by the [**GitHub Readme Beautifier**](http
 </picture>
 
 
-Its a web app to beautify and enhance your Github README file, that provides interesting widgets in PNG and GIF(animated) formats.
+Its a web app to beautify and enhance your Github README file, that provides interesting widgets in GIF(animated) formats.
 
 
 
