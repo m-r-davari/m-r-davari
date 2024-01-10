@@ -1,4 +1,4 @@
-## About Me  <img src="https://raw.githubusercontent.com/m-r-davari/m-r-davari/master/assets/walking.gif" alt="Model1" width="5%"/>
+##   <img src="https://raw.githubusercontent.com/m-r-davari/m-r-davari/master/assets/walking.gif" alt="Model1" width="5%"/>
 
 **Hey this is MohammadReza** 🙋🏻‍♂️
 
