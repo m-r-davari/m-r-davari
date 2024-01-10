@@ -28,13 +28,13 @@ Its a web app to beautify and enhance your Github README file, that provides int
 
 Show some ❤️️ and support me with Github star ⭐️ .
 ([**Web App Link**](https://m-r-davari.github.io/github_readme_beautifier))     ([**How To Use**](https://github.com/m-r-davari/github_readme_beautifier)) \
-You are welcomed to contribute, instead of copying the Idea or Code.
 
 ## Notes
 This project has been developed using Flutter web and is still under development.
 
-
+<!-- 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-r-davari&show_icons=true&theme=transparent)
+-->
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-r-davari&repo=github_readme_beautifier)](https://github.com/m-r-davari/github_readme_beautifier)
