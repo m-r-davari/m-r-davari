@@ -26,10 +26,6 @@ Its a web app to beautify and enhance your Github README file, that provides int
   <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/typewriter_text_light.gif" width="80%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/optimized__dark (1).gif">
-  <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/optimized__light (2).gif" width="30%">
-</picture>
 
 Show some ❤️️ and support me with Github star ⭐️ .
 ([**Web App Link**](https://m-r-davari.github.io/github_readme_beautifier))     ([**How To Use**](https://github.com/m-r-davari/github_readme_beautifier))
