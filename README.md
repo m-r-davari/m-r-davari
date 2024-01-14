@@ -33,7 +33,6 @@ Its a web app to beautify and enhance your Github README file, that provides int
 </picture>
 
 \
-\
 
 Show some ❤️️ and support me with Github star ⭐️ .
 ([**How To Use**](https://github.com/m-r-davari/github_readme_beautifier))  <!-- ([**Web App Link**](https://m-r-davari.github.io/github_readme_beautifier)) -->
