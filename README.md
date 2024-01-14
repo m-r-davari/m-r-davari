@@ -33,7 +33,7 @@ Its a web app to beautify and enhance your Github README file, that provides int
 
 
 Show some ❤️️ and support me with Github star ⭐️ .
-([**Web App Link**](https://m-r-davari.github.io/github_readme_beautifier))     ([**How To Use**](https://github.com/m-r-davari/github_readme_beautifier))
+([**How To Use**](https://github.com/m-r-davari/github_readme_beautifier))  <!-- ([**Web App Link**](https://m-r-davari.github.io/github_readme_beautifier)) -->
 
 ## Notes
 This project has been developed using Flutter web and is still under development.
