@@ -47,6 +47,9 @@ This project has been developed using Flutter web and is still under development
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-r-davari&show_icons=true&theme=transparent)
 
+![My GitHub Stats](./assets/most_used_language_light.gif)
+
+
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-r-davari&repo=github_readme_beautifier)](https://github.com/m-r-davari/github_readme_beautifier)
