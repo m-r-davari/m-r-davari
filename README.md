@@ -44,8 +44,9 @@ You are welcomed to contribute.
 ## Notes
 This project has been developed using Flutter web and is still under development.
 
-
+<!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-r-davari&show_icons=true&theme=transparent)
+-->
 
 
 
