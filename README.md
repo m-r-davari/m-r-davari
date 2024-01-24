@@ -35,7 +35,7 @@ Its a web app to beautify and enhance your Github README file, that provides int
 
 
 
-\
+\ 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/repos_languages_overview_dark.gif">
