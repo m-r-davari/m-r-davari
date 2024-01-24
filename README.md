@@ -9,7 +9,7 @@ I'm a seasoned software engineer with a profound expertise in Android and Flutte
 -->
 
 
-This banner 👇🏻 has been created by the [**GitHub Readme Beautifier**](https://github.com/m-r-davari/github_readme_beautifier) project that I'm currently developing.
+This banner 👇🏻 and the widgets below have been created by the [**GitHub Readme Beautifier**](https://github.com/m-r-davari/github_readme_beautifier) project which I'm currently developing.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/mrd_github_meme_dark.gif">
