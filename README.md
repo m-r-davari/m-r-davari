@@ -27,11 +27,18 @@ Its a web app to beautify and enhance your Github README file, that provides int
 </picture>
 
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/most_used_language_dark.gif">
   <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/most_used_language_light.gif">
 </picture>
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repos_languages_overview_dark.gif">
+  <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/repos_languages_overview_ligh.gif">
+</picture>
 
 
 
