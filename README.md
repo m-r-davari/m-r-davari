@@ -42,7 +42,10 @@ Its a web app to beautify and enhance your Github README file, that provides int
 
 
 
-
+| Image | Images |
+|-------|--------|
+| ![Image 1](/path/to/image1.jpg) | ![Image 2](/path/to/image2.jpg) |
+|       | ![Image 3](/path/to/image3.jpg) |
 
 
 
