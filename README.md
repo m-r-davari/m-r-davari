@@ -43,7 +43,13 @@ Its a web app to beautify and enhance your Github README file, that provides int
 
 |       |        |
 |-------|--------|
-| ![Image 1](./assets/repos_languages_overview_dark.gif) | ![Image 2](./assets/mr_most_langs_dark.gif) |
+| <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repos_languages_overview_dark.gif"> 
+  <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/repos_languages_overview_light.gif">
+</picture> | <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_most_langs_dark.gif">
+  <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/mr_most_langs_light.gif">
+</picture> |
 
 <!-- | ![Image 3](./assets/mr_github_friends_dark.gif) | ![Image 3](./assets/mr_github_friends_dark.gif) | -->
 
