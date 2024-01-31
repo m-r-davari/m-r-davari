@@ -27,24 +27,23 @@ Its a web app to beautify and enhance your Github README file, that provides int
 </picture>
 
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/repos_languages_overview_dark.gif"> <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/repos_languages_overview_light.gif" width="44%"> </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_most_langs_dark.gif">
   <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/mr_most_langs_light.gif" width="44%">
 </picture>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_github_friends_dark.gif">
   <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/mr_github_friends_light.gif" width="44%">
 </picture>
 
-| Image 1                                      | Image 2                                      |
-| -------------------------------------------- | -------------------------------------------- |
-| ![Image 1](path/to/your/image1.jpg)         | ![Image 2](path/to/your/image2.jpg)         |
 
-![Single Image](path/to/your/single_image.jpg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repos_languages_overview_dark.gif"> 
+  <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/repos_languages_overview_light.gif" width="44%">
+</picture>
+
+
 
 
 \
