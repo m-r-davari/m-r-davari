@@ -62,7 +62,7 @@ Show some ❤️️ and support me with Github star ⭐️ .
 You are welcomed to contribute.
 
 ## Notes
-This project has been developed using Flutter web and is still under development.
+This project has been developed using Flutter web.
 
 <!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-r-davari&show_icons=true&theme=transparent)
