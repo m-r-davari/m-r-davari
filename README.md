@@ -44,7 +44,8 @@ Its a web app to beautify and enhance your Github README file, that provides int
 |       |        |
 |-------|--------|
 | ![Image 1](./assets/repos_languages_overview_dark.gif) | ![Image 2](./assets/mr_most_langs_dark.gif) |
-| ![Image 3](./assets/mr_github_friends_dark.gif) | ![Image 3](./assets/mr_github_friends_dark.gif) |
+
+<!-- | ![Image 3](./assets/mr_github_friends_dark.gif) | ![Image 3](./assets/mr_github_friends_dark.gif) | -->
 
 
 
