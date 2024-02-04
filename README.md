@@ -19,3 +19,75 @@ This banner 👇🏻 and the widgets below have been created by the [**Github Re
 
 Its a web app to beautify and enhance your Github README file, that provides interesting widgets in GIF(animated) formats.
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/typewriter_text_dark.gif">
+  <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/typewriter_text_light.gif" width="80%">
+</picture>
+
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repos_languages_overview_dark.gif"> 
+  <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/repos_languages_overview_light.gif" width="44%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_most_langs_dark.gif">
+  <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/mr_most_langs_light.gif" width="44%">
+</picture>
+-->
+
+
+
+
+
+|       |        |
+|-------|--------|
+| <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/repos_languages_overview_dark.gif"> <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/repos_languages_overview_light.gif"> </picture> | <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_most_langs_dark.gif"><img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/mr_most_langs_light.gif"></picture> |
+
+<!-- | ![Image 3](./assets/mr_github_friends_dark.gif) | ![Image 3](./assets/mr_github_friends_dark.gif) | -->
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_github_friends_dark.gif">
+  <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/mr_github_friends_light.gif" width="44%">
+</picture>
+
+
+\
+Show some ❤️️ and support me with Github star ⭐️ .
+([**How To Use**](https://github.com/m-r-davari/github_readme_beautifier))  <!-- ([**Web App Link**](https://m-r-davari.github.io/github_readme_beautifier)) -->
+\
+You are welcomed to contribute.
+
+## Notes
+This project has been developed using Flutter web.
+
+<!--
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-r-davari&show_icons=true&theme=transparent)
+-->
+
+
+
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-r-davari&repo=github_readme_beautifier)](https://github.com/m-r-davari/github_readme_beautifier)
+-->
+
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/light.png">
+</picture>
+-->
+
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
+</picture>
+-->
+
+
+<!--comment-->
