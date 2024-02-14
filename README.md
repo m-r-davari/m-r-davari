@@ -19,11 +19,12 @@ This banner 👇🏻 and the widgets below have been created by the [**Github Re
 
 Its a web app to beautify and enhance your Github README file, that provides interesting widgets in GIF(animated) formats.
 
-
+<!--
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/typewriter_text_dark.gif">
 <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/typewriter_text_light.gif" width="80%">
 </picture>
+-->
 
 <!--
 <picture>
@@ -43,16 +44,17 @@ Its a web app to beautify and enhance your Github README file, that provides int
 
 |       |        |
 |-------|--------|
-| <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/repos_languages_overview_dark.gif"> <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/repos_languages_overview_light.gif"> </picture> | <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_most_langs_dark.gif"><img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/mr_most_langs_light.gif"></picture> |
+| <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/repos_languages_overview_dark.gif"> <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/repos_languages_overview_light.gif"> </picture> | <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_github_friends_dark.gif"><img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/mr_github_friends_light.gif"></picture> |
 
 <!-- | ![Image 3](./assets/mr_github_friends_dark.gif) | ![Image 3](./assets/mr_github_friends_dark.gif) | -->
 
 
-
+<!--
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/mr_github_friends_dark.gif">
 <img alt="Text changing depending on mode. Light: 'LightMeme' Dark: 'DarkMeme'" src="./assets/mr_github_friends_light.gif" width="44%">
 </picture>
+-->
 
 
 \
